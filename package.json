@@ -1,0 +1,21 @@
+{
+    "name": "solarized-light-seth",
+    "displayName": "Solarized Light-Seth",
+    "description": "My customized color theme based on Solarized Light.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "solarized-light-seth",
+                "uiTheme": "vs",
+                "path": "./themes/solarized-light-seth.json"
+            }
+        ]
+    }
+}
